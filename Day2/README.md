@@ -56,4 +56,3 @@ Sedangkan contoh IP Private adalah sebagai berikut:
 - fleksible
 - Keamanan yang baik
 - tidak memerlukan biaya banyak
-- 
