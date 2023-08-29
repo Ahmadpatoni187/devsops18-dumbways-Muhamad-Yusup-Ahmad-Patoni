@@ -42,3 +42,18 @@ Sedangkan contoh IP Private adalah sebagai berikut:
 - IP Private komputer atau laptop bisa diketahui dengan perintah “ipconfig” pada command prompt
 - IP Private bisa diset manual ataupun otomatis didapat dari DHCP Server
 - IP Private tentu saja gratis.
+
+
+# Perbedaan IP Dinamic dan IP Static
+### IP Static
+- IP tidak berubah-ubah
+- Stabil untuk digunakan
+- digunakan pada jaringan lokal
+
+### IP Dinamic
+- IP dapat berubah-ubah
+- digunakan pada jaringan public
+- fleksible
+- Keamanan yang baik
+- tidak memerlukan biaya banyak
+- 
