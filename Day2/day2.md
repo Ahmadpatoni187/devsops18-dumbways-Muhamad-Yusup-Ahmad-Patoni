@@ -1,4 +1,4 @@
-# Perbedaan Ip Private & IP Public
+**# Perbedaan Ip Private & IP Public**
 ## Pengertian
 IP Public adalah IP Address yang digunakan untuk komunikasi antar host di Internet global
 
@@ -44,7 +44,7 @@ Sedangkan contoh IP Private adalah sebagai berikut:
 - IP Private tentu saja gratis.
 
 
-# Perbedaan IP Dinamic dan IP Static
+**# Perbedaan IP Dinamic dan IP Static **
 ### IP Static
 - IP tidak berubah-ubah
 - Stabil untuk digunakan
